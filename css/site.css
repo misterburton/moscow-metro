@@ -1,0 +1,44 @@
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
+
+body {
+  background-color: #000;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  font-weight: 300;
+}
+
+.container {
+  max-width: 640px;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.container h1 {
+  width: 50%;
+  display: inline-block;
+  vertical-align: top;
+  font: 700 16px 'Droid Sans', Arial, sans-serif;
+  text-transform: uppercase;
+  color: #FFF;
+  margin: 0 auto;
+  padding: 16px 0 26px 0;
+  width: 100%;
+}
+
+.lg-sub-html h4 {
+  font-weight: normal;
+}
+
+a {
+  color: #000; /* hackity hack */
+}
+
+.lg-progress-bar .lg-progress {
+  background-color: #eb582f;
+}
+
+#lightgallery {
+  max-width: 640px;
+  margin: 0 auto;
+}
+
